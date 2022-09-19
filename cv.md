@@ -12,3 +12,19 @@ I am 25 years old, I work as a civil engeneer. My hobbies are filmmaking, travel
 * Javascript (basic)
 * Phyton (basic)
 * Git/Github
+## Code Examples
+```
+def is_contains_char(string, char):
+    index = 0
+    while index < len(string):
+        if string[index] == char:
+            return True
+        index += 1
+    return False
+```
+## Education
+* Belarusian National Technical University   
+  * **Industrial and civil construction** 
+## Languages
+* Russian - native speaker
+* English - B1
